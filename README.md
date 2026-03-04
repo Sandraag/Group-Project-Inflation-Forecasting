@@ -13,13 +13,11 @@ This repository contains the full implementation of the models, the experimental
 
 ## Project Deliverables:
 
-Group Report  
-Inflation_Forecasting_with_Machine_Learning_Models__Group_Report.pdf 
+Group Report: Inflation_Forecasting_with_Machine_Learning_Models__Group_Report.pdf 
 ![Alt text](https://github.com/Sandraag/Group-Project-Inflation-Forecasting/blob/main/Inflation_Forecasting_with_Machine_Learning_Models__Group_Report.pdf)
 
-Project Poster  
-GroupProjectPoster.pdf 
-![Alt text]https://github.com/Sandraag/Group-Project-Inflation-Forecasting/blob/main/5761489c-1.png)
+Project Poster: GroupProjectPoster.pdf 
+![Alt text](https://github.com/Sandraag/Group-Project-Inflation-Forecasting/blob/main/5761489c-1.png)
 
 ## Key Features:
 
@@ -189,6 +187,7 @@ This repository was created for academic purposes as part of the COMP5530M cours
 
 ## Individual Report – Sandra Guran
 ![Alt text](https://github.com/Sandraag/Group-Project-Inflation-Forecasting/blob/main/Individual_Report_SandraGuran.pdf)
+
 My individual contribution to this project focused on the design, implementation, and optimisation of deep learning and machine learning models for inflation forecasting.
 
 I was the primary contributor responsible for developing and evaluating three forecasting models:
