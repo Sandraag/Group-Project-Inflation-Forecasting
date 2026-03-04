@@ -1,4 +1,4 @@
-COMP5530M-Group-Project-Inflation-Forecasting
+COMP5530M-Group-Project-Inflation Forecasting with Machine Learning Models
 =====================
 
 ## Overview:
